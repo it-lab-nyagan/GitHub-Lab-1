@@ -24,7 +24,7 @@ https://github.com/ВАШ_ЛОГИН/НАЗВАНИЕ_РЕПОЗИТОРИЯ
 
 bash
 # Скопируйте URL вашего репозитория (не исходного!) нажав кнопку "Code" на GitHub
-git clone [https://github.com/ВАШ_ЛОГИН/НАЗВАНИЕ_РЕПОЗИТОРИЯ.git](https://github.com/it-lab-nyagan/GitHub-Lab-1.git)
+git clone https://github.com/it-lab-nyagan/GitHub-Lab-1.git
 
 # Перейдите в папку проекта
 cd НАЗВАНИЕ_РЕПОЗИТОРИЯ
